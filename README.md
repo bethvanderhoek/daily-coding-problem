@@ -1,2 +1,4 @@
-# daily-coding-problem
-Code solutions to the Daily Coding Problems
+# Daily Coding Problems
+
+## Code solutions to the Daily Coding Problem Emails
+
